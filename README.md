@@ -7,7 +7,7 @@ like:
 `UIimageView.image = [UIImage getCRCodeImageWithString:@"FT I Love You"];`
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/SionFu/FDString2QRCodeImage/master/Simulator%20Screen%20Shot%202016年9月12日%20上午9.15.43.png/>
+<img src="https://raw.githubusercontent.com/SionFu/FDString2QRCodeImage/master/Simulator%20Screen%20Shot%202016年9月12日%20上午9.15.43.png" alt="Downloads"/>
 </p>
 Version 1.0
 
